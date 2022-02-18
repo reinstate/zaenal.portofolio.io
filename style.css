@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 7rem;
+}
+#project {
+  background-color: #dffafb;
+}
+
+/* desktop version  */
+@media (min-width: 992px) {
+  .jumbotron {
+    padding-top: 10rem;
+  }
+}
